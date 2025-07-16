@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.yourusername:apklis_license_validator:1.0.0'
+    implementation 'com.github.z17-Cuba:ApklisLicenseValidatorLib:02e262fc1a'
 }
 ```
 
